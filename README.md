@@ -58,8 +58,8 @@
 ![Uploading Screenshot 2025-11-19 191504.png…]()
 
 
-### Name:
-### Register Number: 
+### Name: TRISHA PRIYADARSHNI PARIDA
+### Register Number: 212224230293
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
