@@ -53,6 +53,9 @@
 
 
 ## Output:
+
+The values have been scaled in ratios {divided by 2} to make it suitable for Virtual Lab.
+
 <img width="1918" height="952" alt="Screenshot 2025-11-19 191454" src="https://github.com/user-attachments/assets/ee2d10ee-3a67-4f0f-b54f-06a263fdd92a" />
 <img width="1726" height="628" alt="Screenshot 2025-11-19 191504" src="https://github.com/user-attachments/assets/37ff68c1-3cf5-4b2c-ae86-b6fc508acd06" />
 
